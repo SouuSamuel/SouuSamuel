@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=6A5ACD&center=true&vCenter=true&width=750&lines=Desenvolvedor+em+formação;Foco+em+Backend+com+Java;Construindo+projetos+reais;Sempre+evoluindo+🚀"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=6A5ACD&center=true&vCenter=true&width=750&lines=Desenvolvedor+em+formação;"
   />
 </p>
 
