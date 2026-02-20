@@ -7,14 +7,7 @@
 
 ---
 
-<div align="center">
-  <img height="185em" 
-    src="https://github-readme-stats.vercel.app/api?username=SouuSamuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_rank=true"/>
-
-  <img height="185em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouuSamuel&layout=compact&theme=tokyonight&locale=pt-br&size_weight=0.5&count_weight=0.5"/>
-</div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouuSamuel&show_icons=true&theme=radical)
 
 
 ## 🛠 Tecnologias que utilizo
@@ -25,7 +18,8 @@
   <img alt="Flutter" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
----
+
+--
 
 ## 📌 Sobre mim
 
