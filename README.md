@@ -38,19 +38,14 @@ Focado em Flutter, Java e Python, desenvolvendo projetos práticos para ingressa
 
 ---
 
-### Contato
+## Contato
 
-<div>
-  <a href="SEU_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
 
 ### Snake animation
 
-![Snake animation](https://github.com/SouuSamuel/SouuSamuel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SouuSamuel/SouuSamuel/output/github-contribution-grid-snake.svg)
