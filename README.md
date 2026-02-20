@@ -19,20 +19,12 @@
 
 ## 🛠 Tecnologias que utilizo
 
-<br>
-
-<img alt="Java" height="50" width="60"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-<img alt="React" height="50" width="60"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-
-<img alt="Flutter" height="50" width="60"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-
-<img alt="Python" height="50" width="60"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
+<p>
+  <img alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="React" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Flutter" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</p>
 ---
 
 ## 📌 Sobre mim
