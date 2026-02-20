@@ -15,7 +15,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouuSamuel&layout=compact&theme=tokyonight&locale=pt-br&size_weight=0.5&count_weight=0.5"/>
 </div>
 
----
+
 
 ## 🛠 Tecnologias que utilizo
 
