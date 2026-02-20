@@ -2,13 +2,17 @@
 
 🎓 Técnico em Desenvolvimento de Sistemas  
 📚 Estudante de Análise e Desenvolvimento de Sistemas — Fatec Sorocaba  
-💻 Focado em Java, React, Flutter e Python  
 🚀 Em busca da primeira oportunidade como Desenvolvedor  
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouuSamuel&show_icons=true&theme=radical)
+## 📊 Estatísticas do GitHub
 
+<!-- Cartões de resumo -->
+![Resumo de Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SouuSamuel&theme=github_dark)
+![Estatísticas GitHub](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SouuSamuel&theme=github_dark)
+
+---
 
 ## 🛠 Tecnologias que utilizo
 
@@ -19,14 +23,16 @@
   <img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
 
---
+---
 
 ## 📌 Sobre mim
 
-Sou desenvolvedor em formação, apaixonado por tecnologia e resolução de problemas.  
-Atualmente desenvolvo projetos práticos para fortalecer minhas habilidades em backend e mobile, com foco principal em **Java**.
+Sou um desenvolvedor em formação que gosta de transformar ideias em soluções reais.
 
-Busco evoluir constantemente e contribuir com soluções eficientes e bem estruturadas.
+Atualmente estou focado em fortalecer minha base em **Java e backend**, mas também desenvolvo projetos mobile com Flutter e aplicações web com React.
+
+Gosto de aprender fazendo, criar projetos práticos e evoluir um pouco todos os dias.  
+Meu objetivo agora é conquistar minha primeira oportunidade na área e crescer junto com um time de tecnologia.
 
 ---
 
@@ -38,6 +44,6 @@ Busco evoluir constantemente e contribuir com soluções eficientes e bem estrut
 
 ---
 
-## 🐍 Snake animation
+## 🐍 Contribuições
 
 ![Snake animation](https://raw.githubusercontent.com/SouuSamuel/SouuSamuel/output/github-contribution-grid-snake.svg)
